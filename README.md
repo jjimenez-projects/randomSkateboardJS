@@ -100,4 +100,4 @@ console.log(formatted)
 
 - This is what the outcome should look like in the terminal/bash/node
 
-![outcome](./photos/outcome.png)
+![outcome](/randomPracticeJS/photos/outcome.png)
